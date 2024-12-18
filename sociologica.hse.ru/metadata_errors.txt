@@ -1,0 +1,2065 @@
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<JpegFile>] Only supporting Baseline & Extended Sequential JPEG images so far!
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip value width_dpi=15748 (filter)
+[warn] Skip value height_dpi=15748 (filter)
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [/exif/content] Error when getting size of 'ifd[0]': delete it
+[warn] [/exif/content] IFDs cannot be empty.
+[warn] [/exif/content] [Autofix] Fix parser error: stop parser, found unparsed segment: start 160, length 64
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [/exif/content] Error when getting size of 'ifd[0]': delete it
+[warn] [/exif/content] IFDs cannot be empty.
+[warn] [/exif/content] [Autofix] Fix parser error: stop parser, found unparsed segment: start 160, length 64
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
