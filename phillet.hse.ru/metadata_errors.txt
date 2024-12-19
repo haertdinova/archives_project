@@ -1,0 +1,1246 @@
+2024-12-17 14:31:34,507 - root - DEBUG - Preparing phillet.hse.ru.warc.gz
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip value width_dpi=11851 (filter)
+[warn] Skip value height_dpi=11851 (filter)
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<JpegFile>] Only supporting Baseline & Extended Sequential JPEG images so far!
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip value width_dpi=18898 (filter)
+[warn] Skip value height_dpi=18898 (filter)
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [/exif/content] [Autofix] Fix parser error: stop parser, found unparsed segment: start 1744, length 16
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip value width_dpi=11812 (filter)
+[warn] Skip value height_dpi=11812 (filter)
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip value width_dpi=18898 (filter)
+[warn] Skip value height_dpi=18898 (filter)
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [/exif/content/ifd[0]] [Autofix] Fix parser error: stop parser, found unparsed segment: start 1464, length 8
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [/exif/content/ifd[0]] [Autofix] Fix parser error: stop parser, found unparsed segment: start 1416, length 8, found unparsed segment: start 1800, length 8
+[warn] [/exif/content/exif[0]] [Autofix] Fix parser error: stop parser, found unparsed segment: start 5944, length 8, found unparsed segment: start 6584, length 8, found unparsed segment: start 6648, length 8
+[warn] Error when calling function readGPS(): 'NoneType' object is not iterable
+[warn] [/exif/content] [Autofix] Fix parser error: stop parser, found unparsed segment: start 6712, length 8
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': Unknown magic string
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': Invalid magic
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': Invalid FAT12 signature
+[warn] Skip parser 'FAT16': Invalid FAT16 signature
+[warn] Skip parser 'FAT32': Invalid FAT32 signature
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': Invalid signature
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] [<NdsFile>] Error when getting size of 'header': delete it
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
+[warn] Skip parser 'FAT12': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT16': stream is smaller than 512.0 bytes
+[warn] Skip parser 'FAT32': stream is smaller than 512.0 bytes
+[warn] Skip parser 'LinuxSwapFile': stream is smaller than 4096.0 bytes
+[warn] Skip parser 'MSDos_HardDrive': stream is smaller than 512.0 bytes
+[warn] Skip parser 'PIFVFile': Invalid magic number
+[warn] Skip parser 'ElfFile': Invalid magic
+[warn] Skip parser 'MachoFatFile': stream is smaller than 4180.0 bytes
+[warn] Skip parser 'MachoFile': Invalid magic
+[warn] Skip parser 'PRCFile': False
